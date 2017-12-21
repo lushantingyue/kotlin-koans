@@ -1,6 +1,6 @@
 [![official JetBrains project](http://jb.gg/badges/official-plastic.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 
-Kotlin Koans
+Kotlin Koans(Kotlin语法---官方系列教程)
 ===========
 
 Kotlin Koans Workshop is a series of exercises to get you familiar with the Kotlin Syntax. 
